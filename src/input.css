@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+.bg-colour{
+   @apply text-3xl text-white text-center font-bold underline bg-black;
+}
